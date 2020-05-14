@@ -10,7 +10,7 @@
 
 from PIL import Image
 from PIL import ImageFont, ImageDraw
-import os
+import os  # so that I can do file stuffs
 
 size = 640, 426
 
